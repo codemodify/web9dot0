@@ -1,1 +1,1 @@
-anything that goes against the [constitution](./constitution.html) is a violation
+anything that goes against the [constitution](./constitution.md) is a violation
