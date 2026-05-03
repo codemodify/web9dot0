@@ -1,1 +1,1 @@
-anything that goes against the [constitution.md](./constitution.md) is a violation
+anything that goes against the [constitution](./constitution.md) is a violation
