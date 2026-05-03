@@ -4,9 +4,11 @@
 
 ----
 
-This is an attempt at reverting the upside-down situation
-where the abuse of the internet is the norm of the day.
-
-This is a start for the architects of brand new days to
-manifest and build the tools of tomorrow where fear and
-coercion are not incentivized or institutionalized.
+>
+> This is an attempt at reverting the upside-down situation
+> where the abuse of the internet is the norm of the day.
+>
+> This is a start for the architects of brand new days to
+> `manifest and build the tools of tomorrow where fear and
+> coercion are not incentivized or institutionalized.
+>
